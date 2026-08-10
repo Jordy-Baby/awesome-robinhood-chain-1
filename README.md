@@ -44,6 +44,7 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 
 ## Data & Analytics
 
+- [Envio](https://envio.dev/chains/robinhood) - Data indexing for Robinhood Chain. HyperSync is a high-performance alternative to JSON-RPC for historical and real-time data, HyperRPC is a fast read-only RPC, and [HyperIndex](https://github.com/enviodev/hyperindex) turns contract events into a queryable GraphQL API.
 - [L2Beat](https://l2beat.com/scaling/projects/robinhood) - Risk analysis, stage assessment, and total value secured.
 - [DeFiLlama](https://defillama.com/chain/robinhood-chain) - TVL, stablecoins, DEX volume, and fees.
 - [growthepie](https://www.growthepie.com/chains/robinhood) - Transactions, active addresses, and chain fundamentals.
